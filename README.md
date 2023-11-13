@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hello, I'm [Fabien Grasset]
 
-<!--
-**fgrasset/fgrasset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- I'm a student at 42School, and a part-time at Sonar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Personal Website](https://yourwebsite.com)
+
+## Technologies I Work With
+
+- C
+- C++
+- Python
+- Git
+- PowerShell / Bash
+
+## My Interests
+
+- Ethics in Artificial Intelligence
+- Neural Networks
+
+## GitHub Statistics
+
+<details>
+  <summary>Click to expand!</summary>
+
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fgrasset&count_private=true&show_icons=true)
+
+</details>
+
+## Recent Projects
+
+- [Small LLM](https://github.com/fgrasset/LLM) - Following a course to create a small LLM, then modifying parameters for learning transformers
+- [miniRT](https://github.com/fgrasset/miniRT) - Creating images using the RayTracing protocol (Project 42)
+- [Webserv](https://github.com/fgrasset/LLM) - Creating a Webserver (Project 42)
