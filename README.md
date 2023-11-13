@@ -1,13 +1,9 @@
-# Hello, I'm [Fabien Grasset]
+# Hello, I'm Fabien Grasset
 
 ## About Me
 
 - I'm a student at 42School, and a part-time at Sonar.
 
-## Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Personal Website](https://yourwebsite.com)
 
 ## Technologies I Work With
 
@@ -35,4 +31,4 @@
 
 - [Small LLM](https://github.com/fgrasset/LLM) - Following a course to create a small LLM, then modifying parameters for learning transformers
 - [miniRT](https://github.com/fgrasset/miniRT) - Creating images using the RayTracing protocol (Project 42)
-- [Webserv](https://github.com/fgrasset/LLM) - Creating a Webserver (Project 42)
+- [Webserv](https://github.com/thfavre/webserv) - Creating a Webserver (Project 42)
